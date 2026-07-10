@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=715&height=44&lines=Forward%2C%20we%20all%20have%20the%20right%20to%20be%20free;Freedom%2C%20raise%20your%20sword%20for%20everyone%20to%20see" alt="Typing headlines" />
 </p>
 
-### About Me
+### - About Me
 
 Software Engineer - INATEL - BR
 
